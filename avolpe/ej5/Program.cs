@@ -2,7 +2,6 @@
 Console.WriteLine("Ingrese el nombre de un día de la semana:");
         string input = Console.ReadLine();
 
-        // Normalizamos el texto: quitamos espacios y pasamos a minúsculas
         string dia = input.Trim().ToLower();
         
 
