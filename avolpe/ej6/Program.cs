@@ -40,3 +40,5 @@ decimal precio;
         {
             Console.WriteLine($"El total es: {precio:C}");
         }
+
+        //probandooo
