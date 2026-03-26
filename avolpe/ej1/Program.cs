@@ -1,8 +1,8 @@
 ﻿//ej1
 
-int var1=5;
-int var2=2;
-int var3=9;
+int num1=5;
+int num2=2;
+int num3=9;
 
-int var4=var1+var2+var3;
-Console.WriteLine($"resultado: {var4}");
+int resultado=num1+num2+num3;
+Console.WriteLine($"resultado: {resultado}");

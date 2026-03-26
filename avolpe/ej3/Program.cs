@@ -1,4 +1,5 @@
-﻿string nombre;
+﻿//ej3
+string nombre;
 int edad;
 Console.WriteLine("ingrese su nombre");
 nombre=Console.ReadLine();

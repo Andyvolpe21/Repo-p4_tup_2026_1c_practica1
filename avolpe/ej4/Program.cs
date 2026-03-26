@@ -1,4 +1,5 @@
-﻿int num1;
+﻿//ej4
+int num1;
 int num2;
 Console.WriteLine("ingrese dos numero");
 num1=int.Parse(Console.ReadLine());
